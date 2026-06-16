@@ -1219,4 +1219,4 @@ For future soil moisture estimation:
 Satellite/SAR/Multispectral\ Image \rightarrow CNN/Transformer \rightarrow Moisture\ Value
 ]
 
-This project is a beginner-friendly bridge between GPR-based machine learning and satellite remote sensing.
+This project is a beginner-friendly bridge between GPR-based machine learning and satellite remote sensing. HIMAN NAMDARI PhD
