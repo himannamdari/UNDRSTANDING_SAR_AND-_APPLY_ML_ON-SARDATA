@@ -1,4 +1,4 @@
-# Satellite Image Understanding with PyTorch: From SAR Concepts to CNN Classification
+# Satellite Image Understanding with PyTorch: From SAR Concepts to CNN Classification : By HIMAN NAMDARI PhD
 
 This repository is a learning project for understanding satellite imagery, SAR imaging concepts, and deep learning implementation using PyTorch.
 
